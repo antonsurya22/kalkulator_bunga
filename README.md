@@ -2,6 +2,12 @@
 
 Kalkulator Menghitung Bunga created by. Antonie Dev 
 
+Screenshoot
+
+![image](https://user-images.githubusercontent.com/29690514/112480791-55043900-8db1-11eb-9636-87a6443a058d.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
